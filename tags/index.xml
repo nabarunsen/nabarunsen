@@ -1,28 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Lowkey Hugo</title>
+    <title>Tags on Nabarun Sen</title>
     <link>https://nabarunsen.github.io/tags/</link>
-    <description>Recent content in Tags on Lowkey Hugo</description>
+    <description>Recent content in Tags on Nabarun Sen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Sat, 27 Aug 2022 09:16:45 +0000</lastBuildDate><atom:link href="https://nabarunsen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nabarunsen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello</title>
-      <link>https://nabarunsen.github.io/tags/hello/</link>
-      <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
+      <title>ArgoCD</title>
+      <link>https://nabarunsen.github.io/tags/argocd/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nabarunsen.github.io/tags/hello/</guid>
+      <guid>https://nabarunsen.github.io/tags/argocd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>WhatsApp</title>
-      <link>https://nabarunsen.github.io/tags/whatsapp/</link>
-      <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
+      <title>Deployment</title>
+      <link>https://nabarunsen.github.io/tags/deployment/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nabarunsen.github.io/tags/whatsapp/</guid>
+      <guid>https://nabarunsen.github.io/tags/deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://nabarunsen.github.io/tags/tutorial/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nabarunsen.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     

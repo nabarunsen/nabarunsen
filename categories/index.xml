@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Lowkey Hugo</title>
+    <title>Categories on Nabarun Sen</title>
     <link>https://nabarunsen.github.io/categories/</link>
-    <description>Recent content in Categories on Lowkey Hugo</description>
+    <description>Recent content in Categories on Nabarun Sen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Sat, 27 Aug 2022 09:16:45 +0000</lastBuildDate><atom:link href="https://nabarunsen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nabarunsen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello</title>
-      <link>https://nabarunsen.github.io/categories/hello/</link>
-      <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
+      <title>Continuous Delivery</title>
+      <link>https://nabarunsen.github.io/categories/continuous-delivery/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nabarunsen.github.io/categories/hello/</guid>
+      <guid>https://nabarunsen.github.io/categories/continuous-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jenkins</title>
+      <link>https://nabarunsen.github.io/categories/jenkins/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nabarunsen.github.io/categories/jenkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://nabarunsen.github.io/categories/kubernetes/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nabarunsen.github.io/categories/kubernetes/</guid>
       <description></description>
     </item>
     

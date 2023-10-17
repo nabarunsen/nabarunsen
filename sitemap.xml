@@ -2,29 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nabarunsen.github.io/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <loc>https://nabarunsen.github.io/posts/jenkins/</loc>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nabarunsen.github.io/categories/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nabarunsen.github.io/tags/hello/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <loc>https://nabarunsen.github.io/categories/continuous-delivery/</loc>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nabarunsen.github.io/categories/hello/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <loc>https://nabarunsen.github.io/</loc>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nabarunsen.github.io/posts/markdown-cheat-sheet/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <loc>https://nabarunsen.github.io/categories/jenkins/</loc>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nabarunsen.github.io/posts/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nabarunsen.github.io/tags/argocd/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nabarunsen.github.io/tags/deployment/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nabarunsen.github.io/categories/kubernetes/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nabarunsen.github.io/tags/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nabarunsen.github.io/tags/whatsapp/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <loc>https://nabarunsen.github.io/posts/argo-cd/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nabarunsen.github.io/tags/tutorial/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nabarunsen.github.io/categories/css/</loc>
   </url><url>
