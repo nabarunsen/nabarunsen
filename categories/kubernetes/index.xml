@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kubernetes on Nabarun Sen</title>
-    <link>http://nabarunsen.github.io/categories/kubernetes/</link>
+    <link>https://iamamolmane.github.io/categories/kubernetes/</link>
     <description>Recent content in Kubernetes on Nabarun Sen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://nabarunsen.github.io/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://iamamolmane.github.io/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Ultimate Guide to ArgoCD</title>
-      <link>http://nabarunsen.github.io/posts/argo-cd/</link>
+      <link>https://iamamolmane.github.io/posts/argo-cd/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://nabarunsen.github.io/posts/argo-cd/</guid>
+      <guid>https://iamamolmane.github.io/posts/argo-cd/</guid>
       <description>Introduction to ArgoCD What is ArgoCD and its Significance ArgoCD is an open-source continuous delivery tool that simplifies and automates the deployment of applications on Kubernetes clusters.</description>
     </item>
     
